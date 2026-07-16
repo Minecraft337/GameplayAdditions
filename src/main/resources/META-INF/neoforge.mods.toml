@@ -1,0 +1,14 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "AGPLv3"
+issueTrackerURL = "https://github.com/Minecraft337/MC-Plugin/issues"
+
+[[mods]]
+modId = "gameplayadditions"
+version = "${mod_version}"
+displayName = "Gameplay Additions"
+logoFile = "gameplayadditions.png"
+description = '''
+A NeoForge mod that adds authentication, advanced mechanics, custom crafting, and server protection — ported from MC-Plugin.
+'''
+authors = "rizer001"
