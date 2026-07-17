@@ -1,5 +1,10 @@
 # GameplayAdditions
 
+> **⚠️ This mod is currently in the porting stage.**
+> The mod is being actively ported from the **MC-Plugin** Bukkit plugin ecosystem to NeoForge 1.21.
+> **Do not download or use it yet** — it is incomplete and may contain bugs, missing features, and breaking changes.
+> Follow this repository to get notified when a stable release is available.
+
 A comprehensive **NeoForge 1.21** mod for Minecraft that adds new mechanics, security features, and quality‑of‑life improvements. Originally ported from the **MC-Plugin** Bukkit plugin ecosystem.
 
 ## Features
@@ -45,7 +50,7 @@ cd GameplayAdditions
 ./gradlew build
 ```
 
-The built JAR will be in `build/libs/`. Place it in your Minecraft server's `mods/` folder.
+The built JAR will be in `build/libs/`.
 
 ### Development
 Open the project in IntelliJ IDEA and run:
